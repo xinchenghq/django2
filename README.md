@@ -1,1 +1,2 @@
-# django2
+# django
+大型项目
